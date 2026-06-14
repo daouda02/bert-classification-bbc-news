@@ -1,0 +1,23 @@
+# Environnement virtuel
+venv/
+env/
+
+# Modele sauvegarde (trop lourd pour GitHub)
+best_model/
+
+# Dataset
+data/*.csv
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache Hugging Face
+.cache/
+
+# Fichiers systeme
+.DS_Store
+
+# wandb
+wandb/
