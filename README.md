@@ -128,6 +128,6 @@ VOIR curves.png
 
 ## Répartition du travail
 
-**Membre A** — pipeline complet d'entraînement : analyse du dataset, tokenisation, `TextClassificationDataset`, fine-tuning BERT, sauvegarde du meilleur modèle.
+**Daouda Sow** — pipeline complet d'entraînement : analyse du dataset, tokenisation, `TextClassificationDataset`, fine-tuning BERT, sauvegarde du meilleur modèle.
 
 **Seydou Bécaye Kaboré** — évaluation et déploiement : métriques et visualisations, interface Gradio, documentation.
