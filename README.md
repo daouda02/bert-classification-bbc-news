@@ -116,13 +116,13 @@ bert-classification-bbc-news/
 
 ## Résultats
 
-> *(À compléter après l'entraînement — ajouter captures d'écran des courbes et de la démo)*
+VOIR curves.png
 
 | Métrique | Valeur |
 |----------|--------|
-| Val Accuracy | — |
-| Val F1 (macro) | — |
-| Meilleure val loss | — |
+| Val Accuracy | 97.98% 97.98% 98.43% 98.88% |
+| Val F1 (macro) | 0.9796 0.9800 0.9845 0.9888 |
+| Meilleure val loss | 0.1070 0.0869 0.0889 0.0709 |
 
 ---
 
