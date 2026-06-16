@@ -9,8 +9,8 @@ Devoir Pratique n°3 — NLP avec PyTorch | Master / Ingénierie IA
 
 | Membre | Rôle |
 |--------|------|
-| Membre A | `dataset.py`, `model.py`, `train.py` — pipeline d'entraînement |
-| Membre B | `utils.py`, `demo.py`, `README.md` — évaluation & démo Gradio |
+| Daouda Sow | `dataset.py`, `model.py`, `train.py` — pipeline d'entraînement |
+| Seydou Kabore | `utils.py`, `demo.py`, `README.md` — évaluation & démo Gradio |
 
 ---
 
@@ -60,7 +60,7 @@ Devoir Pratique n°3 — NLP avec PyTorch | Master / Ingénierie IA
 ## Installation
 
 ```bash
-git clone https://github.com/<votre-repo>/bert-classification-bbc-news.git
+git clone https://github.com/daouda02/bert-classification-bbc-news.git
 cd bert-classification-bbc-news
 pip install -r requirements.txt
 ```
